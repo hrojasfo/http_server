@@ -1,0 +1,5 @@
+﻿  cpp_http_server.cpp
+c:\users\rojashe\source\repos\http_server\cpp_http_server\cpp_http_server\cpp_http_server.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\rojashe\source\repos\http_server\cpp_http_server\cpp_http_server\cpp_http_server.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  cpp_http_server.vcxproj -> C:\Users\rojashe\Source\Repos\http_server\cpp_http_server\Debug\cpp_http_server.exe
+  cpp_http_server.vcxproj -> C:\Users\rojashe\Source\Repos\http_server\cpp_http_server\Debug\cpp_http_server.pdb (Full PDB)
