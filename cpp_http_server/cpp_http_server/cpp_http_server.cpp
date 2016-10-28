@@ -9,7 +9,7 @@ int main()
 {
 	std::string name;
 	std::cout << "Starting http server...\n";
-	std::cin >> name;
+	getchar();
     return 0;
 }
 
